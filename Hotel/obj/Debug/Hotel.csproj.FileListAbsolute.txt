@@ -1,0 +1,39 @@
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.pdb
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.Login.resources
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.Manage_Client.resources
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.Manage_Reservations.resources
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.Manage_Rooms.resources
+D:\Kuliah\Semester 4\Pemrograman Berorientasi Objek\Hotel\Hotel\obj\Debug\Hotel.Menu.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\AVAN\Documents\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\AVAN\Documents\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Client_Page.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Login.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Manage_Client.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Manage_Reservations.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Manage_Rooms.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Menu.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Reservation_Page.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\AVAN\Documents\Hotel\Hotel\bin\Debug\MySql.Data.dll
+C:\Users\AVAN\Documents\Hotel\Hotel\bin\Debug\Google.Protobuf.dll
+C:\Users\AVAN\Documents\Hotel\Hotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AVAN\Documents\Hotel\Hotel\bin\Debug\MySql.Data.xml
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Check_In.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Check_Out.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Billing_and_Payment.resources
+C:\Users\AVAN\Documents\Hotel\Hotel\obj\Debug\Hotel.Client_Menu.resources
